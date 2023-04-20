@@ -24,7 +24,7 @@ const result = transformSync(code, {
         [
           "@swc/plugin-noop",
           {}
-        ]
+        ],
       ],
     },
   },
